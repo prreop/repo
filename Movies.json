@@ -1,6 +1,17 @@
 {
     "Torrents": [
         {
+            "Name": "Bad Grandpa.5",
+            ".Torrent": "https://yts.mx/torrent/download/EEF649B0DA9C360318DE478750FF2503FAC9DE81",
+            "MagnetUrl": "magnet:?xt=urn:btih:533ETMG2TQ3AGGG6I6DVB7ZFAP5MTXUB&dn=Jackass%20Presents%20Bad%20Grandpa%20.5%20(2014)%20%5B1080p%5D&tr=udp%3A%2F%2Ftracker.yify-torrents.com%2Fannounce",
+            "Icon": "https://github.com/prreop/repo/blob/main/3.jpg?raw=true",
+            "SeedersAtTheTime": "YTS",
+            "Publisher": "YTS",
+            "HasStreamURL": true,
+            "StreamURL": "https://uflix.cc/movie/jackass-presents-bad-grandpa-5-2014",
+            "Source": "https://www5.yts.nz/movies/bad-grandpa-5-2013"
+        },
+        {
             "Name": "The Aristocats (1970) (1080p)",
             ".Torrent": "http://itorrents.org/torrent/BCA8EA79F3090E81FCAADA3FF59D306756B260BB.torrent",
             "MagnetUrl": "magnet:?xt=urn:btih:BCA8EA79F3090E81FCAADA3FF59D306756B260BB&dn=The+Aristocats+%281970%29+1080p+BluRay+AV1+Opus+5.1+%5BRAV1NE%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.files.fm%3A6969%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker2.dler.com%3A80%2Fannounce&tr=udp%3A%2F%2Ffe.dealclub.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
