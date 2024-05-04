@@ -1,6 +1,28 @@
 {
     "Torrents": [
         {
+            "Name": "MARIO KART 7 3DS CIA ENG",
+            ".Torrent": "https://archive.org/download/mario-kart-7/mario-kart-7_archive.torrent",
+            "MagnetUrl": "magnet:?xt=urn:btih:ECCTJ6LDHDKPU7HZBS2AB6K2WZD7Y5P3&dn=mario-kart-7&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
+            "Icon": "https://github.com/prreop/repo/blob/main/dawdawdawdaw.jpg?raw=true",
+            "SeedersAtTheTime": "Archive",
+            "Publisher": "Nintendo",
+            "HasStreamURL": false,
+            "StreamURL": "IFYOUCANSTREAMTHESHOWTHENADDTHEURLHERE",
+            "Source": "https://archive.org/details/mario-kart-7"
+        },
+        {
+            "Name": " Super Mario 3D Land",
+            ".Torrent": "https://archive.org/download/super-mario-3-d-land-europe-en-fr-de-es-it-nl-pt-ru/super-mario-3-d-land-europe-en-fr-de-es-it-nl-pt-ru_archive.torrent",
+            "MagnetUrl": "magnet:?xt=urn:btih:7F2MLHFXQ5AS5ELMKFK3C72YA54FYSD4&dn=super-mario-3-d-land-europe-en-fr-de-es-it-nl-pt-ru&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
+            "Icon": "https://github.com/prreop/repo/blob/main/awdawddawd.jpeg?raw=true",
+            "SeedersAtTheTime": "Archive",
+            "Publisher": "Nintendo",
+            "HasStreamURL": false,
+            "StreamURL": "IFYOUCANSTREAMTHESHOWTHENADDTHEURLHERE",
+            "Source": "https://archive.org/details/super-mario-3-d-land-europe-en-fr-de-es-it-nl-pt-ru"
+        },
+        {
             "Name": "Minecraft New Nintendo 3DS",
             ".Torrent": "https://archive.org/download/minecraft-new-nintendo-3ds-edition-usa-decrypted.3ds-rom/minecraft-new-nintendo-3ds-edition-usa-decrypted.3ds-rom_archive.torrent",
             "MagnetUrl": "magnet:?xt=urn:btih:OHXRYO4UPGA3T5OZJ2CONBLOP7GZYUYL&dn=minecraft-new-nintendo-3ds-edition-usa-decrypted.3ds-rom&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
