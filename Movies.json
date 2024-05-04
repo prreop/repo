@@ -1,6 +1,17 @@
 {
     "Torrents": [
         {
+            "Name": "Frozen 2013 1080p",
+            ".Torrent": "http://itorrents.org/torrent/4956A4E976EA948025C3C3554567CA2820F65F64.torrent",
+            "MagnetUrl": "https://uflix.cc/play/tt2294629",
+            "Icon": "https://github.com/prreop/repo/blob/main/hetjuudrrhrt.jpg?raw=true",
+            "SeedersAtTheTime": "385",
+            "Publisher": "YIFY",
+            "HasStreamURL": true,
+            "StreamURL": "https://uflix.cc/play/tt2294629",
+            "Source": "https://1337x.to/torrent/761635/Frozen-2013-1080p-BrRip-x264-YIFY/"
+        },
+        {
             "Name": "The Fox and the Hound 2 2006 1080p",
             ".Torrent": "https://yts.mx/torrent/download/ABAF724761DA649C29D3AB4C0C45B7FE4B21A5F4",
             "MagnetUrl": "magnet:?xt=urn:btih:VOXXER3B3JSJYKOTVNGAYRNX7ZFSDJPU&dn=The%20Fox%20And%20The%20Hound%202%20(2006)%20%5B1080p%5D%20%5BBluRay%5D%20%5B5.1%5D%20%5BYTS.MX%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
