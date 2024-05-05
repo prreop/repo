@@ -1,0 +1,16 @@
+{
+    "Torrents": [
+        {
+            "Name": "Super Mario 64",
+            ".Torrent": "https://archive.org/download/super-mario-64_n64/super-mario-64_n64_archive.torrent",
+            "MagnetUrl": "magnet:?xt=urn:btih:6PJ47JN7NMN5AVITIBIGDNOPI42P773W&dn=super-mario-64_n64&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
+            "Icon": "https://github.com/HttpAnimation/RepoNEW/blob/main/nhhfhffghfghfgh.jpg?raw=true",
+            "SeedersAtTheTime": "Archive",
+            "Publisher": " Nintendo",
+            "HasStreamURL": false,
+            "StreamURL": "IFYOUCANSTREAMTHESHOWTHENADDTHEURLHERE",
+            "Source": "https://archive.org/details/super-mario-64_n64"
+        }
+    ]
+}
+
