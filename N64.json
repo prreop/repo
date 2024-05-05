@@ -1,14 +1,36 @@
 {
     "Torrents": [
         {
-            "Name": "Super Mario 64",
+            "Name": "The Legend of Zelda: Ocarina of Time (USA)",
+            ".Torrent": "https://archive.org/download/the-legend-of-zelda-ocarina-of-time-usa_202012/the-legend-of-zelda-ocarina-of-time-usa_202012_archive.torrent",
+            "MagnetUrl": "magnet:?xt=urn:btih:XEWTWPU75JJL2K3V5SBOALIRE2ZRY4C3&dn=the-legend-of-zelda-ocarina-of-time-usa_202012&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
+            "Icon": "https://github.com/prreop/repo/blob/main/fddfidfggfidfdgigdfou.jpg?raw=true",
+            "SeedersAtTheTime": "Archive",
+            "Publisher": " Nintendo",
+            "HasStreamURL": false,
+            "StreamURL": "",
+            "Source": "https://archive.org/details/the-legend-of-zelda-ocarina-of-time-usa_202012"
+        },
+        {
+            "Name": "Mario Kart 64 (USA)",
+            ".Torrent": "https://archive.org/download/mario-kart-64-usa/mario-kart-64-usa_archive.torrent",
+            "MagnetUrl": "magnet:?xt=urn:btih:HAY54A5Q7EO2YFUELEXH4HYOLOJHSZNH&dn=mario-kart-64-usa&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
+            "Icon": "https://github.com/prreop/repo/blob/main/jdgdfjsdjhsdhsdjhf.jpeg?raw=true",
+            "SeedersAtTheTime": "Archive",
+            "Publisher": " Nintendo",
+            "HasStreamURL": false,
+            "StreamURL": "",
+            "Source": "https://archive.org/details/mario-kart-64-usa"
+        },
+        {
+            "Name": "Super Mario 64 (USA)",
             ".Torrent": "https://archive.org/download/super-mario-64_n64/super-mario-64_n64_archive.torrent",
             "MagnetUrl": "magnet:?xt=urn:btih:6PJ47JN7NMN5AVITIBIGDNOPI42P773W&dn=super-mario-64_n64&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
             "Icon": "https://github.com/HttpAnimation/RepoNEW/blob/main/nhhfhffghfghfgh.jpg?raw=true",
             "SeedersAtTheTime": "Archive",
             "Publisher": " Nintendo",
             "HasStreamURL": false,
-            "StreamURL": "IFYOUCANSTREAMTHESHOWTHENADDTHEURLHERE",
+            "StreamURL": "",
             "Source": "https://archive.org/details/super-mario-64_n64"
         }
     ]
