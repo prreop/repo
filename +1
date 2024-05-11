@@ -2,7 +2,7 @@
     "Name": "NAMEOFTORRENT",
     ".Torrent": "DOWNLOADFORTORRENT",
     "MagnetUrl": "MagnetURL",
-    "Icon": "https://github.com/prreop/repo/blob/main/Photo?raw=true",
+    "Icon": "",
     "SeedersAtTheTime": "9",
     "Publisher": "WHOMADETHETORRENTFILE",
     "HasStreamURL": true,
